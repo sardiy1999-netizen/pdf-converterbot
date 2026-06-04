@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+Pillow
+python-docx
+openpyxl
+reportlab
+PyPDF2
+PyMuPDF
