@@ -1,1 +1,1 @@
-worker: python pdfbot.py
+worker: python bot.py
